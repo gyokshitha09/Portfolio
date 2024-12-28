@@ -1,0 +1,38 @@
+#header{
+    padding: 5px;
+}
+#section{
+    margin:5px;
+}
+#intro{
+    padding:5px;
+    background-color: yellow;
+    color: green;
+    text-decoration: underline;
+}
+#d{
+    padding:50px;
+}
+#p{
+    padding: 5px;
+}
+#image{
+    width:50%;
+}
+#button{
+    width:50%;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+}
+#email{
+    padding: 5px;
+}
+#name{
+    width:100%;
+}
+#footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
